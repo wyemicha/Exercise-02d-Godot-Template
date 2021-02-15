@@ -91,6 +91,8 @@ func _process(delta):
 ```
 (make sure to indent using tabs). Save the changes to the script.
 
+In the Project menu, choose Project Settings, and select AutoLoad. In the Path field, select Global.gd and press the Add button.
+
 Next, we add inputs to the Input Map. In the Project menu, choose Project Settings, and select the Input Map tab. Near the top of the window is an "Action:" text box with an "Add" button next to it. Add the following inputs to the map (case is important, so make sure these are all lower case):
  * up
  * down
